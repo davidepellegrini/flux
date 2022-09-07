@@ -4,6 +4,7 @@ metadata:
   name: wp-pv-claim
   labels:
     app: wordpress
+  namespace: default
 spec:
   accessModes:
     - ReadWriteOnce

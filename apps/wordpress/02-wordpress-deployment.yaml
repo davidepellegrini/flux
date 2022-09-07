@@ -16,6 +16,7 @@ spec:
       labels:
         app: wordpress
         tier: frontend
+      namespace: default  
     spec:
       containers:
       - image: wordpress:5.4.1-apache
