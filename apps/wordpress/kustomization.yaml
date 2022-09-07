@@ -1,6 +1,6 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
-  - 01-wordpress-storage.yml
-  - 02-wordpress-deployment.yml
-  - 03-wordpress-service.yml
+  - 01-wordpress-storage.yaml
+  - 02-wordpress-deployment.yaml
+  - 03-wordpress-service.yaml
