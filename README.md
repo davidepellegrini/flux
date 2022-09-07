@@ -1,1 +1,1 @@
-# flux
+flux bootstrap github --owner=davidepellegrini --repository=flux --path=./clusters/wordpress_cluster --branch=main --personal
