@@ -4,4 +4,3 @@ resources:
   - 01-mysql-storage.yaml
   - 02-mysql-deployment.yaml
   - 03-mysql-service.yaml
-  - mysql-secrets.yaml
